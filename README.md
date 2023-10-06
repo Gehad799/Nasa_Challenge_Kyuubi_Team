@@ -14,6 +14,8 @@ Our solution primarily aims to educate people about eclipses, explaining their o
 
 # You can find more details about our solution in this attached proposal:
 
+# here's our page on Nasa Space Apps Cairo website:
+(https://www.spaceappschallenge.org/2023/find-a-team/kyuubi/)
 
 # Meet Our Team:
 ![33](https://github.com/Gehad799/Nasa_Challenge_Kyuubi_Team/assets/125475192/0d17874e-6b9d-4a49-8d3a-98ed3024519f)
