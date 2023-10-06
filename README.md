@@ -12,7 +12,9 @@ Eclipses are awe-inspiring celestial events that drastically change the appearan
 # Brief to our Solution:
 Our solution primarily aims to educate people about eclipses, explaining their occurrence and various types through a concise video. We have presented this solution on the website provided earlier.
 
-# You can find more details about our solution in this attached proposal:
+# You can find more details about our solution in this attatched proposal:
+[Kyuubi_Team_Proposal.pdf](https://github.com/Gehad799/Nasa_Challenge_Kyuubi_Team/files/12828424/Kyuubi_Team_Proposal.pdf)
+
 
 # here's our page on Nasa Space Apps Cairo website:
 (https://www.spaceappschallenge.org/2023/find-a-team/kyuubi/)
