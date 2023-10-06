@@ -6,7 +6,7 @@ Eclipses are awe-inspiring celestial events that drastically change the appearan
 
 
 # Here's the liveserver to preview the website:
-
+https://nasa-challenge-kyuubi-team.vercel.app/
 
 
 # Brief to our Solution:
